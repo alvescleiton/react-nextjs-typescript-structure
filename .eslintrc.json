@@ -56,6 +56,12 @@
         "newlinesBetween": "always",
         "groups": [
           "/^react/",
+          "/^next/",
+          "module",
+          "/^Hooks/",
+          "/^Services/",
+          "/^Components/",
+          "/^./styles/",
           "module",
           [
             "parent",
