@@ -57,6 +57,7 @@
         "groups": [
           "/^react/",
           "/^next/",
+          "/^styled-components/",
           "module",
           "/^Hooks/",
           "/^Services/",
